@@ -1,0 +1,104 @@
+.header {
+	height:40px;
+}
+
+
+.l1 {
+	float:right;
+	width: 60px;
+	text-align:right;
+	font-family: Arial;
+	font-size: small;
+}
+
+#toplist {
+
+}
+
+.main {
+	padding-top: 187px;
+	text-align: center;
+}
+
+.main img {
+	width:274;
+	height:94;
+}
+
+.searchbar {
+	margin-top: 25px;
+}
+
+#bar {
+	background-image: url(mic.png);
+	background-repeat: no-repeat;
+	background-position: right;
+	font-size: 1.5em;
+}
+
+#bar:hover {
+	border:1px solid black;
+}
+
+#buttons {
+	margin-top:30px;
+}
+
+#gs {
+	font-family: Arial;
+	padding:10px 20px;
+}
+
+#ifl {
+	font-family: Arial;
+	padding:10px 20px;
+}
+
+#norsk {
+	margin-top: 30px;
+	font-size: 12px;
+	font-family: Arial;
+}
+
+#mic {
+	display:inline-block;
+	width: 30px;
+	height: 30px;
+}
+
+#search {
+}
+
+p a {
+	color:blue;
+	text-decoration:none;
+}
+
+#footer {
+	height:40px;
+	width: 100%;
+	background-color: #f2f2f2;
+	border-top:1px solid lightgray;
+	position:absolute;
+	bottom:0;
+	left:0;
+}
+
+.l2 {
+	float:left;
+	width: 90px;
+	text-align:left;
+	font-family: Arial;
+	font-size: small;
+	color:gray;
+}
+
+.l3 {
+	float:right;
+	width: 50px;
+	text-align:right;
+	font-family: Arial;
+	font-size: small;
+	color:gray;
+	margin-right: 30px;
+}
